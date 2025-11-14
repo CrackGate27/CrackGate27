@@ -70,9 +70,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 - **Organizing Institute**: IIT Madras, Chennai, India.
-- **Email**: gate2027@iitm.ac.in
-- **Helpline**: +91-XXXX-XXXXXX (Mon-Fri, 9 AM - 5 PM IST)
+- **Email**: crackgate27@gmail.com
+- **Helpline**: +91-XXXX-XXXXXX ( It is not official site )
 - **GitHub Issues**: [Report Bugs or Request Features](https://github.com/crackgate27issues)
-- **Social Media**: Follow [@IITMadrasGATE](https://x.com/crackGATE27) for updates.
+- **Social Media**: Follow [@CrackGATE27](https://x.com/crackGATE27) for updates.
 
 *Empower your future with GATE 2027!*
