@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # GATE 2027 Official Website
 
-![GATE 2027 Banner](https://via.placeholder.com/800x200?text=GATE+2027+-+IIT+Madras)  
+![GATE 2027 Banner](logo.png)  
 *Organized by IIT Madras – Empowering Engineering Aspirants*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
