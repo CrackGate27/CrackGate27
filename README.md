@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# GATE 2027 Official Website
+# GATE 2027 Unofficial Website
 
 ![GATE 2027 Banner](logo.png)  
 *Organized by IIT Madras – Empowering Engineering Aspirants*
