@@ -70,7 +70,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 - **Organizing Institute**: IIT Madras, Chennai, India.
-- **Email**: crackgate27@gmail.com
+- **Email**: crackgate27@gmail.com / gate2027@myyahoo.com / gate.cse@outlook.com
 - **Helpline**: +91-XXXX-XXXXXX ( It is not official site )
 - **GitHub Issues**: [Report Bugs or Request Features](https://github.com/crackgate27issues)
 - **Social Media**: Follow [@CrackGATE27](https://x.com/crackGATE27) for updates.
